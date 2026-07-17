@@ -80,22 +80,6 @@ Airbnb-inspired property booking application with listings, search, and booking 
 
 <br>
 
-## Project Highlights
-
-📸 **FaceMatch AI** — Lets event guests skip manual photo sorting entirely by finding their own photos through face recognition.
-
-☕ **WellVriddha** — Supports elderly users' physical and mental well-being through guided wellness features in a Java full stack application.
-
-🛒 **ShopSphere** — A complete e-commerce flow from browsing to checkout, built as a full stack MERN application.
-
-🏕️ **Wanderlust** — Recreates an Airbnb-style booking experience, from property search to reservation.
-
-<br>
-
----
-
-<br>
-
 ## Tech Stack
 
 **Languages**
