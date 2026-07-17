@@ -2,13 +2,15 @@
 
 # Nikhil Shivankar
 
-**Full Stack Developer building production-ready applications with Java, the MERN stack, and AI integration**
+**Full Stack Developer specializing in Java, MERN Stack, REST APIs, and AI-powered web applications.**
 
 <a href="https://linkedin.com/in/nikhil-shivankar">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Integrated+Applications&font=Fira+Code&center=true&width=440&height=30&color=333333&vCenter=true&size=16" />
 </a>
 
-Pune, Maharashtra, India
+📍 Pune, Maharashtra, India
+
+💼 Open to Full Stack Developer | Software Engineer | Java Developer roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-shivankar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nikhilshivankar.vercel.app)
@@ -24,9 +26,25 @@ Pune, Maharashtra, India
 
 I'm a full stack developer who builds complete, production-ready applications rather than stopping at prototypes. My work spans frontend development with React, backend development with Java and Node.js/Express, and REST API design that connects the two cleanly.
 
-I also work on integrating AI-driven features into full stack projects — most notably in FaceMatch AI, where a dedicated Python microservice handles face recognition alongside a standard MERN stack. Alongside feature work, I'm currently deepening my understanding of system design and scalable backend architecture.
+I enjoy integrating AI-driven capabilities into full stack applications, as demonstrated in FaceMatch AI using a Python microservice for face recognition. During my internship, I also worked on backend development using Rust (Rocket Framework) and PostgreSQL to build secure REST APIs for an API Access Security Layer (AASL). Alongside feature development, I'm continuously strengthening my understanding of system design and scalable backend architecture.
 
 I'm actively looking for Software Engineer, Full Stack Developer, and Java Full Stack roles or internships where I can contribute to real products.
+
+<br>
+
+---
+
+<br>
+
+## 💼 Experience
+
+### Software Development Intern | Regent Atlas Infotech
+**Jan 2026 – Jul 2026**
+
+- Developed backend components for **API Access Security Layer (AASL)**, a middleware solution for securing REST APIs.
+- Built backend services using **Rust (Rocket Framework)** and **PostgreSQL**.
+- Designed and integrated secure REST APIs with database operations.
+- Worked on authentication, request validation, and backend architecture improvements.
 
 <br>
 
@@ -47,8 +65,10 @@ AI-powered event photo delivery platform built on a microservice architecture. A
 `React` `Node.js` `Express` `FastAPI` `MongoDB` `Cloudinary`
 
 **[WellVriddha](https://github.com/Nikhil-Shivankar04/WellVriddha)**
-A Java full stack web application designed to support the physical and mental well-being of elderly users, with features including guided yoga and meditation, secure login, and fund management.
-`Java`
+
+Java Full Stack healthcare platform built to support elderly wellness through guided yoga, meditation, secure authentication, and health-focused services. Demonstrates backend architecture, REST APIs, and database integration.
+
+`Java` `Spring Boot` `MySQL`
 
 **[ShopSphere](https://github.com/Nikhil-Shivankar04/ShopSphere)**
 Full stack e-commerce platform with product listings, user authentication, and order management.
@@ -87,6 +107,7 @@ Airbnb-inspired property booking application with listings, search, and booking 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -100,10 +121,17 @@ Airbnb-inspired property booking application with listings, search, and booking 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Rocket](https://img.shields.io/badge/Rocket-D33847?style=flat&logo=rust&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
 
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 
 **Cloud**
 
@@ -116,6 +144,7 @@ Airbnb-inspired property booking application with listings, search, and booking 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 <br>
 
