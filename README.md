@@ -5,14 +5,14 @@
 **Full Stack Developer specializing in Java, MERN Stack, REST APIs, and AI-powered web applications.**
 
 <a href="https://linkedin.com/in/nikhil-shivankar">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Integrated+Applications&font=Fira+Code&center=true&width=440&height=30&color=333333&vCenter=true&size=16" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+•+MERN+Stack+•+REST+APIs;Building+AI-Powered+Applications&font=Fira+Code&center=true&width=500&height=30&color=58A6FF&vCenter=true&size=18" />
 </a>
 
 📍 Pune, Maharashtra, India
 
 💼 Open to Full Stack Developer | Software Engineer | Java Developer roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-shivankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilshivankar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nikhilshivankar.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilshivankar81@gmail.com)
 
