@@ -54,13 +54,7 @@ I'm actively looking for Software Engineer, Full Stack Developer, and Java Full 
 
 ## Featured Projects
 
-<div align="center">
-
-[![FaceMatch AI](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Shivankar04&repo=facematch-ai&theme=default&hide_border=true)](https://github.com/Nikhil-Shivankar04/facematch-ai)
-
-</div>
-
-**FaceMatch AI** *(Flagship Project)*
+**FaceMatch AI**
 AI-powered event photo delivery platform built on a microservice architecture. A Node.js/Express backend handles events and storage, while a separate Python/FastAPI service performs AI face recognition so guests can find and download only their own photos via a selfie.
 `React` `Node.js` `Express` `FastAPI` `MongoDB` `Cloudinary`
 
@@ -145,19 +139,6 @@ Airbnb-inspired property booking application with listings, search, and booking 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-<br>
-
----
-
-<br>
-
-## Currently Working On
-
-- Improving AI matching accuracy in FaceMatch AI
-- Optimizing backend performance and API response times
-- Learning scalable backend and system design patterns
-- Exploring production-ready deployment practices
 
 <br>
 
