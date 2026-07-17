@@ -8,14 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications" />
 </a>
 
-📍 Pune, Maharashtra, India
-
-💼 Open to Full Stack Developer | Software Engineer | Java Developer roles
+📍 Pune, Maharashtra, India · 💼 Open to Full Stack Developer, Software Engineer, and Java Developer roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilshivankar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nikhilshivankar.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilshivankar81@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-Shivankar04&color=blue&style=flat&label=Profile+Views)
 
 </div>
 
@@ -27,7 +26,7 @@ I'm a full stack developer who builds complete, production-ready applications ra
 
 I enjoy integrating AI-driven capabilities into full stack applications, as demonstrated in FaceMatch AI using a Python microservice for face recognition. During my internship, I also worked on backend development using Rust (Rocket Framework) and PostgreSQL to build secure REST APIs for an API Access Security Layer (AASL). Alongside feature development, I'm continuously strengthening my understanding of system design and scalable backend architecture.
 
-I'm actively looking for Software Engineer, Full Stack Developer, and Java Full Stack roles or internships where I can contribute to real products.
+Currently, I'm expanding my knowledge of backend architecture, system design, and cloud deployment while building projects that solve real-world problems.
 
 <br>
 
@@ -53,14 +52,18 @@ I'm actively looking for Software Engineer, Full Stack Developer, and Java Full 
 
 ## Featured Projects
 
-**[facematch-ai](https://github.com/Nikhil-Shivankar04/facematch-ai)**
+<div align="center">
+
+[![FaceMatch AI](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Shivankar04&repo=facematch-ai&theme=default&hide_border=true)](https://github.com/Nikhil-Shivankar04/facematch-ai)
+
+</div>
+
+**FaceMatch AI** *(Flagship Project)*
 AI-powered event photo delivery platform built on a microservice architecture. A Node.js/Express backend handles events and storage, while a separate Python/FastAPI service performs AI face recognition so guests can find and download only their own photos via a selfie.
 `React` `Node.js` `Express` `FastAPI` `MongoDB` `Cloudinary`
 
 **[WellVriddha](https://github.com/Nikhil-Shivankar04/WellVriddha)**
-
-Java Full Stack healthcare platform built to support elderly wellness through guided yoga, meditation, secure authentication, and health-focused services. Demonstrates backend architecture, REST APIs, and database integration.
-
+Java full stack healthcare platform built to support elderly wellness through guided yoga, meditation, secure authentication, and health-focused services. Demonstrates backend architecture, REST APIs, and database integration.
 `Java` `Spring Boot` `MySQL`
 
 **[ShopSphere](https://github.com/Nikhil-Shivankar04/ShopSphere)**
@@ -117,14 +120,11 @@ Airbnb-inspired property booking application with listings, search, and booking 
 ![Rocket](https://img.shields.io/badge/Rocket-D33847?style=flat&logo=rust&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
 
 **Cloud**
 
@@ -166,7 +166,7 @@ Airbnb-inspired property booking application with listings, search, and booking 
 
 ### 🤝 Let's Connect
 
-I'm always interested in discussing Software Engineer and Full Stack opportunities, collaborating on interesting projects, or contributing to open source.
+I'm always interested in discussing software engineering opportunities, collaborating on interesting projects, or contributing to open source.
 
 ⭐ Thanks for visiting my GitHub profile.
 
