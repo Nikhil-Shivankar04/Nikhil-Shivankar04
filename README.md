@@ -16,7 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nikhilshivankar.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilshivankar81@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-Shivankar04&color=blue&style=flat&label=Profile+Views)
 
 </div>
 
@@ -54,7 +53,7 @@ I'm actively looking for Software Engineer, Full Stack Developer, and Java Full 
 
 ## Featured Projects
 
-**FaceMatch AI**
+**[facematch-ai](https://github.com/Nikhil-Shivankar04/facematch-ai)**
 AI-powered event photo delivery platform built on a microservice architecture. A Node.js/Express backend handles events and storage, while a separate Python/FastAPI service performs AI face recognition so guests can find and download only their own photos via a selfie.
 `React` `Node.js` `Express` `FastAPI` `MongoDB` `Cloudinary`
 
