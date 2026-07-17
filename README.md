@@ -5,7 +5,7 @@
 **Full Stack Developer specializing in Java, MERN Stack, REST APIs, and AI-powered web applications.**
 
 <a href="https://linkedin.com/in/nikhil-shivankar">
- <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+•+MERN+Stack+•+REST+APIs;Building+AI-Powered+Applications&font=Fira+Code&center=true&width=500&height=30&color=58A6FF&vCenter=true&size=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications" />
 </a>
 
 📍 Pune, Maharashtra, India
