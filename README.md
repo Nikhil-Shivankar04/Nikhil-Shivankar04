@@ -1,0 +1,164 @@
+<div align="center">
+
+# Nikhil Shivankar
+
+**Full Stack Developer building production-ready applications with Java, the MERN stack, and AI integration**
+
+<a href="https://linkedin.com/in/nikhil-shivankar">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Integrated+Applications&font=Fira+Code&center=true&width=440&height=30&color=333333&vCenter=true&size=16" />
+</a>
+
+Pune, Maharashtra, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-shivankar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nikhilshivankar.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilshivankar81@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-Shivankar04&color=blue&style=flat&label=Profile+Views)
+
+</div>
+
+<br>
+
+## About Me
+
+I'm a full stack developer who builds complete, production-ready applications rather than stopping at prototypes. My work spans frontend development with React, backend development with Java and Node.js/Express, and REST API design that connects the two cleanly.
+
+I also work on integrating AI-driven features into full stack projects — most notably in FaceMatch AI, where a dedicated Python microservice handles face recognition alongside a standard MERN stack. Alongside feature work, I'm currently deepening my understanding of system design and scalable backend architecture.
+
+I'm actively looking for Software Engineer, Full Stack Developer, and Java Full Stack roles or internships where I can contribute to real products.
+
+<br>
+
+---
+
+<br>
+
+## Featured Projects
+
+<div align="center">
+
+[![FaceMatch AI](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Shivankar04&repo=facematch-ai&theme=default&hide_border=true)](https://github.com/Nikhil-Shivankar04/facematch-ai)
+
+</div>
+
+**FaceMatch AI** *(Flagship Project)*
+AI-powered event photo delivery platform built on a microservice architecture. A Node.js/Express backend handles events and storage, while a separate Python/FastAPI service performs AI face recognition so guests can find and download only their own photos via a selfie.
+`React` `Node.js` `Express` `FastAPI` `MongoDB` `Cloudinary`
+
+**[WellVriddha](https://github.com/Nikhil-Shivankar04/WellVriddha)**
+A Java full stack web application designed to support the physical and mental well-being of elderly users, with features including guided yoga and meditation, secure login, and fund management.
+`Java`
+
+**[ShopSphere](https://github.com/Nikhil-Shivankar04/ShopSphere)**
+Full stack e-commerce platform with product listings, user authentication, and order management.
+`React` `Node.js` `Express` `MongoDB`
+
+**[Wanderlust](https://github.com/Nikhil-Shivankar04/Wanderlust)**
+Airbnb-inspired property booking application with listings, search, and booking functionality.
+`Node.js` `Express` `MongoDB`
+
+<br>
+
+---
+
+<br>
+
+## Project Highlights
+
+📸 **FaceMatch AI** — Lets event guests skip manual photo sorting entirely by finding their own photos through face recognition.
+
+☕ **WellVriddha** — Supports elderly users' physical and mental well-being through guided wellness features in a Java full stack application.
+
+🛒 **ShopSphere** — A complete e-commerce flow from browsing to checkout, built as a full stack MERN application.
+
+🏕️ **Wanderlust** — Recreates an Airbnb-style booking experience, from property search to reservation.
+
+<br>
+
+---
+
+<br>
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+## Currently Working On
+
+- Improving AI matching accuracy in FaceMatch AI
+- Optimizing backend performance and API response times
+- Learning scalable backend and system design patterns
+- Exploring production-ready deployment practices
+
+<br>
+
+---
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Shivankar04&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Shivankar04&theme=default&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Shivankar04&theme=minimal&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm always interested in discussing Software Engineer and Full Stack opportunities, collaborating on interesting projects, or contributing to open source.
+
+⭐ Thanks for visiting my GitHub profile.
+
+</div>
